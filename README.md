@@ -51,5 +51,5 @@ List of the technologies used in the project.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/harshalpardeshi/)
-- [Email](mailto:pardeshiharshal90@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dhatshinamoorthyr2004/)
+- [Email](mailto:rdmcoder123@gmail.com)
